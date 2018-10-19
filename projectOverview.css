@@ -2,3 +2,6 @@ body > section{
   text-align: center;
   color: #0000ff;
 }
+img{
+  border-radius: 8px;
+}
