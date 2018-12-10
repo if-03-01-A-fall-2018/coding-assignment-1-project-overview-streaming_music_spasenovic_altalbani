@@ -55,6 +55,16 @@ background-color: #333;
  .menu a.itunes{
    background-color: #4caF50; color: white;
  }
+
+}
+.menu a.comparison{
+  background-color: #4caF50; color: white;
+}
+
+.menu a.history{
+  background-color: #4caF50; color: white;
+}
+
 p{
   text-align: center;
   text-decoration-color: green;
