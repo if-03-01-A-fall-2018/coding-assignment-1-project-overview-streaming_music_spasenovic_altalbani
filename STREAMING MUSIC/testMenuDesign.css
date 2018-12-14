@@ -77,3 +77,25 @@ h1{
 .menu_Description{
   font-size: 150%;
 }
+
+
+img.apple-music_icon{
+    float: center;
+    margin-left: 500px;
+}
+img.amazon_icon{
+    float: center;
+    margin-left: 300px;
+}
+img.spotify_icon{
+    float: center;
+    margin-left: 400px;
+}
+img.youtube_icon{
+    float: center;
+    margin-left: 300px;
+}
+img.soundcloud_icon{
+    float: center;
+    margin-left: 350px;
+}
