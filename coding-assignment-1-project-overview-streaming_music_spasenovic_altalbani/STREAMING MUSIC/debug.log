@@ -1,0 +1,8 @@
+[1219/173509.264:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Zugriff verweigert (0x5)
+[1219/174007.638:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Zugriff verweigert (0x5)
+[1219/180931.156:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Zugriff verweigert (0x5)
+[1219/180931.309:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Die Pipe wurde beendet. (0x6D)
+[1219/180931.437:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1219/181030.482:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Zugriff verweigert (0x5)
+[1219/181030.654:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Die Pipe wurde beendet. (0x6D)
+[1219/181030.693:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
